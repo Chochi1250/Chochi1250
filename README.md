@@ -1,7 +1,7 @@
 ![LinkedIn](https://media.licdn.com/dms/image/v2/D4E16AQEq7NdRUbMadg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1693519456392?e=1747267200&v=beta&t=KF8sqPB-CTZlZHLd6Rt3JCV8TeXsfam5Ioar-QRkWBs)
 
 # 🇦🇷 Hola Mundo!,I'm Lucas, an Argentininan Developer:
-🇪🇸/🇺🇸 ####Speaker<br>🤖 ####Currently working in a python chat bot !<br>🔭 ####Open to work<br>🧑‍🎓 ####Studying Computer Science<br>🌱 ####Learning Java and Python
+🇪🇸/🇺🇸 Speaker<br>🤖 Currently working in a python chat bot !<br>🔭 Open to work<br>🧑‍🎓 Studying Computer Science<br>🌱 Learning Java and Python
 
 
 # 💻 Tech Stack:
