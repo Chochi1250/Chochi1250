@@ -17,7 +17,7 @@
 
 # ✍️ Contact me
 
-![Gif](https://media1.tenor.com/m/Ph908ooqG2kAAAAd/call-a-friend-phone-a-friend.gif)
+![Gif](https://media1.tenor.com/m/3MbhMgQUldYAAAAd/yakuza-dial.gif)
 
 
 #### 📞 Phone: +54 9 11 6029 6097<br>  
