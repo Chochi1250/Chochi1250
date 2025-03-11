@@ -1,6 +1,6 @@
 ![LinkedIn](https://media.licdn.com/dms/image/v2/D4E16AQEq7NdRUbMadg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1693519456392?e=1747267200&v=beta&t=KF8sqPB-CTZlZHLd6Rt3JCV8TeXsfam5Ioar-QRkWBs)
 
-# 🇦🇷 Hola Mundo!,I'm Lucas, an Argentininan Developer 🇦🇷
+# 🇦🇷 Hola Mundo!,I'm Lucas, an Argentininan Developer:
 🇪🇸/🇺🇸 Speaker<br>🤖 Currently working in a python chat bot !<br>🔭 Open to work<br>🧑‍🎓 Studying Computer Science<br>🌱 Learning Java and Python<
 
 
@@ -15,8 +15,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ramos-8a37ab28a/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.uriel16@hotmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chochi1250)
 
-# 📱 Contact me
+# ✍️ Contact me
+
 ![Gif](https://media1.tenor.com/m/Ph908ooqG2kAAAAd/call-a-friend-phone-a-friend.gif)
+
+
 #### 📞 Phone: +54 9 11 6029 6097<br>  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.uriel16@hotmail.com)  
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
