@@ -17,7 +17,6 @@
 
 # ✍️ Contact me
 
-![Gif](https://media1.tenor.com/m/28UxSbYeTl8AAAAd/typing-kiryu.gif)
 ![Gif](https://i.redd.it/fvonzjtqgh4d1.gif)
 
 #### 📞 Phone: +54 9 11 6029 6097<br>  
