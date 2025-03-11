@@ -18,7 +18,7 @@
 # ✍️ Contact me
 
 ![Gif](https://media1.tenor.com/m/28UxSbYeTl8AAAAd/typing-kiryu.gif)
-![Gif](https://media1.tenor.com/m/3MbhMgQUldYAAAAd/yakuza-dial.gif)
+![Gif](https://i.redd.it/fvonzjtqgh4d1.gif)
 
 #### 📞 Phone: +54 9 11 6029 6097<br>  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.uriel16@hotmail.com)  
