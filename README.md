@@ -1,5 +1,7 @@
 ![LinkedIn](https://media.licdn.com/dms/image/v2/D4E16AQEq7NdRUbMadg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1693519456392?e=1747267200&v=beta&t=KF8sqPB-CTZlZHLd6Rt3JCV8TeXsfam5Ioar-QRkWBs)
 
+![Gif](https://media1.tenor.com/m/aJ5XyNuxjwsAAAAd/makoto-tsukumo-fumiya-sugiura.gif)
+
 # 💫 About Me:
 🇪🇸/🇺🇸 Speaker<br>🔭 Open to work<br>🧑‍🎓 Studying Computer Science<br>🌱 Learning Java and Python<br>✉️ Ask me about anything !
 
