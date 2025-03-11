@@ -17,7 +17,7 @@
 
 # ✍️ Contact me
 
-![Gif](https://media1.tenor.com/m/28UxSbYeTl8AAAAd/typing-kiryu.gif](https://i.kym-cdn.com/photos/images/newsfeed/000/920/106/2f8.gif))
+![Gif]((https://media1.tenor.com/m/Ph908ooqG2kAAAAd/call-a-friend-phone-a-friend.gif))
 
 #### 📞 Phone: +54 9 11 6029 6097<br>  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.uriel16@hotmail.com)  
